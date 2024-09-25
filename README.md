@@ -19,6 +19,7 @@ To run the MATLAB version, ensure that you have a recent version of MATLAB insta
 
 ```
 python -m venv venv
+source venv/bin/activate
 pip install -r py_requirements.txt
 python aircraft_online_learning.py
 ```
